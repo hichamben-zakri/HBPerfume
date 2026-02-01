@@ -200,6 +200,9 @@ img {
   text-align: center;
   display: flex;
 }
+.link {
+  margin-right: 3cm;
+}
 
 .hero-title span {
   font-family: "Great Vibes", cursive;
@@ -359,3 +362,4 @@ html {
     font-size: 28px;
   }
 }
+
